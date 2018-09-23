@@ -1,0 +1,18 @@
+
+.flex {
+    display: flex;
+}
+
+.space-evenly {
+    justify-content: space-evenly;
+}
+
+.mb {
+    margin-bottom: 30px;
+}
+
+.card {
+    border: 1px solid grey;
+    padding: 5px;
+    box-shadow: 1px 1px 2px #000;
+}
